@@ -1,4 +1,4 @@
-# My Subscription App
+# Customize Self Reg App
 
 This is a config-driven subscription platform built with Next.js 13 and TypeScript.
 
