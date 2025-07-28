@@ -1,0 +1,23 @@
+{
+  "name": "customize-self-reg",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "scaffold": "bash scripts/scaffold.sh",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "next": "13.x",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "tailwindcss": "^3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "@types/react": "^18.0.0",
+    "@types/node": "^18.0.0"
+  }
+}
