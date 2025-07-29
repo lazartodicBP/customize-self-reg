@@ -1,2 +1,3 @@
-/* Global styles for the subscription platform */
-/* TODO: Add Tailwind directives and custom styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
